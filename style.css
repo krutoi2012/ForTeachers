@@ -40,14 +40,7 @@ body{
     top: 350px;
     font-family: monospace;
 }
-.img2{
-    position: absolute;
-    height: 300px;
-    top: 600px;
-    right: 1px;
-    left: 800px;
-    
-}
+
 .flw{
     position: absolute;
     height: 300px;
